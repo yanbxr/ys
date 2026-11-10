@@ -1,5 +1,4 @@
 # ys
-A high-precision sleep function for AutoHotkey v1.
 
 ## How it works
 ys uses a hybrid approach for maximum precision with minimal CPU overhead:
